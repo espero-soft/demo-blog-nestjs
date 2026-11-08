@@ -1,3 +1,7 @@
+> **Copie pédagogique** pour la formation « Claude Code de A à Z : coder avec un agent IA (2026) ».
+> Projet original : [github.com/lujakob/nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app), par ses auteurs, sous licence ISC.
+> Le code n'a pas été modifié : il sert d'exemple de projet inconnu à explorer avec Claude Code.
+
 # ![Node/Express/Mongoose Example App](project-logo.png)
 
 [![Build Status](https://travis-ci.org/anishkny/node-express-realworld-example-app.svg?branch=master)](https://travis-ci.org/anishkny/node-express-realworld-example-app)
